@@ -2,8 +2,8 @@
 
 #### This is a dictionary about how to pronounce programming and IT terms correctly
 #### 以下收录了一下容易读错的IT词汇
-| 术语 | 正确发音 | 音译 |
-| ------ | ------ | ------ |
+| 术语 | 正确发音 | 音译 | 备注 |
+| ------ | ------ | ------ | ----- |
 | Dubbo | /ˈdʌbəʊ/ | 达博，同double发音 |
 | Linux | /ˈlɪnʌks/ | 里那克斯，类似link+nux发音 |
 | Safari | /səˈfɑːri/ | 瑟法里 |
@@ -16,7 +16,7 @@
 | Fedora | /fi'dɔ:rə/ | |
 | Java | /ˈdʒɑːvə/ | 扎蛙|
 | App | /ˈæp/ | 爱普|
-| Nginx | /ˈɛndʒɪn X/ | 发音同Engine X|
+| Nginx | /ˈɛndʒɪnˈeks/ | 发音同Engine X|
 | GIF | /dʒɪf/ | |
 | Cache | /kæʃ/ | 发音同kash|
 | Imgur | /ˈɪmədʒər/ | 发音近似“image-er”|
@@ -24,5 +24,18 @@
 | GUI  | /ˈɡui/ | 念作故意|
 | .Net  | /dɑ:t nɛt/ | 念作dot net|
 | Avatar  | /ˌævə'tɑr/ | 念作艾瓦塌儿|
-| Retina  | / 'retnə/ | 中间ti不发音，类似re+na发音|
-| Kinect  | / kəˈnɛkt/ | 类似connect发音|
+| Retina  | /'retnə/ | 中间ti不发音，类似re+na发音|
+| Kinect  | /kəˈnɛkt/ | 类似connect发音|
+| Archive  | /'ɑrkaɪv/ | |
+| Arduino  | /ɑduˈɪnəʊ/ | 念作阿尔杜伊诺|
+| Yum  | /jʌm/ | |
+| Django  | /ˈdʒænˌgəʊ/ | |
+| Uber  | /ˈu:bə/ | |
+| PNG  | /pi:n/ | |
+| Vue  | /vju:/ | |
+| Skype  | /skaɪp/ | |
+| Ratio  | /ˈreɪʃiəʊ/ | |
+| Azure | /'æʒə/ | |
+| Vue  | /vju:/ | |
+| suite  | /swiːt/ | |
+| grep  | /'grep/ | |
