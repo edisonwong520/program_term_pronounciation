@@ -39,3 +39,4 @@
 | Vue  | /vju:/ | |
 | suite  | /swiːt/ | |
 | grep  | /'grep/ | |
+| Kubernetes  | /koo-ber-nay'-tace/ | |means "sailing master" |
