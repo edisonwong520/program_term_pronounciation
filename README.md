@@ -17,13 +17,14 @@
 | Java | /ˈdʒɑːvə/ | 扎蛙|
 | App | /ˈæp/ | 爱普|
 | Nginx | /ˈɛndʒɪnˈeks/ | 发音同Engine X|
+| Kubernetes  | /koo-ber-nay'-tace/ | |means "sailing master" |
+| .Net  | /dɑ:t nɛt/ | 念作dot net| Definition:A Network Enable Technology which supports the OOP's concept. So .(dot)means it supports the OOP's concept. |
+| Avatar  | /ˌævə'tɑr/ | 念作艾瓦塌儿|
 | GIF | /dʒɪf/ | |
 | Cache | /kæʃ/ | 发音同kash|
 | Imgur | /ˈɪmədʒər/ | 发音近似“image-er”|
 | Adobe | /əˈdoʊbiː/ | |
 | GUI  | /ˈɡui/ | 念作故意|
-| .Net  | /dɑ:t nɛt/ | 念作dot net|
-| Avatar  | /ˌævə'tɑr/ | 念作艾瓦塌儿|
 | Retina  | /'retnə/ | 中间ti不发音，类似re+na发音|
 | Kinect  | /kəˈnɛkt/ | 类似connect发音|
 | Archive  | /'ɑrkaɪv/ | |
@@ -39,4 +40,3 @@
 | Vue  | /vju:/ | |
 | suite  | /swiːt/ | |
 | grep  | /'grep/ | |
-| Kubernetes  | /koo-ber-nay'-tace/ | |means "sailing master" |
