@@ -20,9 +20,6 @@
 | Java | /ˈdʒɑːvə/ | 扎蛙|
 | App | /ˈæp/ | 爱普|
 | Nginx | /ˈɛndʒɪnˈeks/ | 发音同Engine X|
-| Kubernetes  | /koo-ber-nay'-tace/ | |means "sailing master" |
-| .Net  | /dɑ:t nɛt/ | 念作dot net| Definition:A Network Enable Technology which supports the OOP's concept. So .(dot)means it supports the OOP's concept. |
-| Avatar  | /ˌævə'tɑr/ | 念作艾瓦塌儿|
 | GIF | /dʒɪf/ | |
 | Cache | /kæʃ/ | 发音同kash|
 | Imgur | /ˈɪmədʒər/ | 发音近似“image-er”|
@@ -43,3 +40,7 @@
 | Vue  | /vju:/ | |
 | suite  | /swiːt/ | |
 | grep  | /'grep/ | |
+| alias  | /'eɪliəs/ | |
+| Apache  | /ə'pætʃɪ/ | |
+| ASCII  | /'æski/ | |
+| Axure  | /'æk∫ur/ | |
