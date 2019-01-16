@@ -6,6 +6,9 @@
 | ------ | ------ | ------ | ----- |
 | Dubbo | /ˈdʌbəʊ/ | 达博，同double发音 |
 | Linux | /ˈlɪnʌks/ | 里那克斯，类似link+nux发音 |
+| Kubernetes  | /koo-ber-nay'-tace/ | |means "sailing master" |
+| .Net  | /dɑ:t nɛt/ | 念作dot net| Definition:A Network Enable Technology which supports the OOP's concept. So .(dot)means it supports the OOP's concept. |
+| Avatar  | /ˌævə'tɑr/ | 念作艾瓦塌儿|
 | Safari | /səˈfɑːri/ | 瑟法里 |
 | CentOS | /ˈsɛntəʊs/ | 森脱死或Sent-O-S |
 | Debian | /ˈdɛbiən/ | 德比嗯 |
