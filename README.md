@@ -44,3 +44,4 @@
 | Apache  | /ə'pætʃɪ/ | |
 | ASCII  | /'æski/ | |
 | Axure  | /'æk∫ur/ | |
+| telnet  | /ˈtɛlˌnɛt/ | |
