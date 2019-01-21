@@ -14,6 +14,7 @@
 | Debian | /ˈdɛbiən/ | 德比嗯 |
 | Youtube | /tju:b/ | 类似you+tube发音 |
 | Ajax | /ˈeɪdʒæks/ | 诶(ei)贾克斯 |
+| Grafana | /ˈɡræfɑnɑ/ | |
 | Putty | /'pʌti/ |  |
 | Kindle | /'kindl/ | 类似King+dle发音|
 | Fedora | /fi'dɔ:rə/ | |
