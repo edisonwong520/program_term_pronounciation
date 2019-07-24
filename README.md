@@ -49,5 +49,5 @@
 | GNU  | /(g)nuː/ | 念作革奴|
 | GNOME  | /ɡˈnoʊm/ or /noʊm/ ||
 | Lucene  | /ˈluːsin/ | 念作鲁信|
-| LaTeX  | /ˈleɪtɛk/ or /ˈleɪtɛx/ or /ˈlɑːtɛx/ or /ˈlɑːtɛk/| 念作鲁信|
+| LaTeX  | /ˈleɪtɛk/ or /ˈleɪtɛx/ or /ˈlɑːtɛx/ or /ˈlɑːtɛk/| |
 
