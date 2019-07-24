@@ -12,7 +12,7 @@
 | Safari | /səˈfɑːri/ | 瑟法里 |
 | CentOS | /ˈsɛntəʊs/ | 森脱死或Sent-O-S |
 | Debian | /ˈdɛbiən/ | 德比嗯 |
-| Youtube | /tju:b/ | 类似you+tube发音 |
+| Youtube | /tju:b/ |  |
 | Ajax | /ˈeɪdʒæks/ | 诶(ei)贾克斯 |
 | Grafana | /ˈɡræfɑnɑ/ | |
 | Putty | /'pʌti/ |  |
@@ -25,7 +25,7 @@
 | Cache | /kæʃ/ | 发音同kash|
 | Imgur | /ˈɪmədʒər/ | 发音近似“image-er”|
 | Adobe | /əˈdoʊbiː/ | |
-| GUI  | /ˈɡui/ | 念作故意|
+| GUI  | /ˈɡui/ | 念作故意,G-U-I单独念也可|
 | Retina  | /'retnə/ | 中间ti不发音，类似re+na发音|
 | Kinect  | /kəˈnɛkt/ | 类似connect发音|
 | Archive  | /'ɑrkaɪv/ | |
@@ -46,3 +46,8 @@
 | ASCII  | /'æski/ | |
 | Axure  | /'æk∫ur/ | |
 | telnet  | /ˈtɛlˌnɛt/ | |
+| GNU  | /(g)nuː/ | 念作革奴|
+| GNOME  | /ɡˈnoʊm/ or /noʊm/ ||
+| Lucene  | /ˈluːsin/ | 念作鲁信|
+| LaTeX  | /ˈleɪtɛk/ or /ˈleɪtɛx/ or /ˈlɑːtɛx/ or /ˈlɑːtɛk/| 念作鲁信|
+
