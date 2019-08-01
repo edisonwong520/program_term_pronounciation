@@ -1,7 +1,8 @@
 # program_term_pronounciation
 
-#### This is a dictionary about how to pronounce programming and IT terms correctly
-#### 以下收录了一下容易读错的IT词汇
+#### This is a dictionary about how to pronounce programming and IT terms correctly  
+#### 一本收录了程序员容易读错的单词发音词典  
+
 | 术语 | 正确发音 | 音译 | 备注 |
 | ------ | ------ | ------ | ----- |
 | Dubbo | /ˈdʌbəʊ/ | 达博，同double发音 |
@@ -50,4 +51,5 @@
 | GNOME  | /ɡˈnoʊm/ or /noʊm/ ||
 | Lucene  | /ˈluːsin/ | 念作鲁信|
 | LaTeX  | /ˈleɪtɛk/ or /ˈleɪtɛx/ or /ˈlɑːtɛx/ or /ˈlɑːtɛk/| |
-
+| Hive  | /haɪv/| |
+| Hadoop  | /hædu:p/ | |
