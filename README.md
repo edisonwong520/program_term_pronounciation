@@ -53,3 +53,4 @@
 | LaTeX  | /ˈleɪtɛk/ or /ˈleɪtɛx/ or /ˈlɑːtɛx/ or /ˈlɑːtɛk/| |
 | Hive  | /haɪv/| |
 | Hadoop  | /hædu:p/ | |
+| Eureka  | /juә'ri:kә/ | |
