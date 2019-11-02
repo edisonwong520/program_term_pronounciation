@@ -5,7 +5,7 @@
 
 | 术语 | 正确发音 | 音译 | 备注 |
 | ------ | ------ | ------ | ----- |
-| Dubbo | /ˈdʌbəʊ/ | 达博，同double发音 |
+| Dubbo | /ˈdʌbəʊ/ | 达博，同double发音 |A high-performance, Java based open source RPC framework|
 | Linux | /ˈlɪnʌks/ | 里那克斯，类似link+nux发音 |
 | Kubernetes  | /koo-ber-nay'-tace/ | |means "sailing master" |
 | .Net  | /dɑ:t nɛt/ | 念作dot net| Definition:A Network Enable Technology which supports the OOP's concept. So .(dot)means it supports the OOP's concept. |
@@ -32,10 +32,10 @@
 | Archive  | /'ɑrkaɪv/ | |
 | Arduino  | /ɑduˈɪnəʊ/ | 念作阿尔杜伊诺|
 | Yum  | /jʌm/ | |
-| Django  | /ˈdʒænˌgəʊ/ | |
+| Django  | /ˈdʒænˌgəʊ/ | |A Python-based free and open-source web framework, |
 | Uber  | /ˈu:bə/ | |
 | PNG  | /pi:n/ | |
-| Vue  | /vju:/ | |
+| Vue  | /vju:/ | |An open-source Model–view–viewmodel JavaScript framework |
 | Skype  | /skaɪp/ | |
 | Ratio  | /ˈreɪʃiəʊ/ | |
 | Azure | /'æʒə/ | |
@@ -49,8 +49,9 @@
 | telnet  | /ˈtɛlˌnɛt/ | |
 | GNU  | /(g)nuː/ | 念作革奴|
 | GNOME  | /ɡˈnoʊm/ or /noʊm/ ||
-| Lucene  | /ˈluːsin/ | 念作鲁信|
+| Lucene  | /ˈluːsin/ | 念作鲁信|Apache Lucene is a free and open-source search engine software library, originally written completely in Java by Doug Cutting. |
 | LaTeX  | /ˈleɪtɛk/ or /ˈleɪtɛx/ or /ˈlɑːtɛx/ or /ˈlɑːtɛk/| |
 | Hive  | /haɪv/| |
 | Hadoop  | /hædu:p/ | |
 | Eureka  | /juә'ri:kә/ | |
+| thrift  | /θrɪft/ | |Thrift is an interface definition language and binary communication protocol used for defining and creating services for numerous languages.|
