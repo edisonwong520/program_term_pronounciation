@@ -46,7 +46,7 @@
 | Apache  | /ə'pætʃɪ/ | |
 | ASCII  | /'æski/ | |
 | Axure  | /'æk∫ur/ | |
-| telnet  | /ˈtɛlˌnɛt/ | |
+| telnet  | /ˈtɛlˌnɛt/ |念作tell net |
 | GNU  | /(g)nuː/ | 念作革奴|
 | GNOME  | /ɡˈnoʊm/ or /noʊm/ ||
 | Lucene  | /ˈluːsin/ | 念作鲁信|Apache Lucene is a free and open-source search engine software library, originally written completely in Java by Doug Cutting. |
