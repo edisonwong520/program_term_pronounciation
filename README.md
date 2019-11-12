@@ -56,3 +56,4 @@
 | Eureka  | /juә'ri:kә/ | |
 | thrift  | /θrɪft/ | |Thrift is an interface definition language and binary communication protocol used for defining and creating services for numerous languages.|
 | istio  | /ɪztiːəʊ/ |念作Is - tee - oh |An open platform to connect, manage, and secure microservices.|
+| Traefik  | /ˈtræfɪk/ | |Traefik is an open-source Edge Router that makes publishing your services a fun and easy experience.|
