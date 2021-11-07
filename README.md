@@ -54,4 +54,13 @@
 | Eureka  | /juә'ri:kә/ | |
 | thrift  | /θrɪft/ | |Thrift is an interface definition language and binary communication protocol used for defining and creating services for numerous languages.|
 | istio  | /ɪztiːəʊ/ |念作 Is - tee - oh |An open platform to connect, manage, and secure microservices.|
-| Traefik  | /ˈtræfɪk/ |念作 traffic |Traefik is an open-source Edge Router that makes publishing your services a fun and easy experience.|
+| MySQL  | /ˌmaɪˌɛsˌkjuːˈɛl/ |  |An open-source relational database management system (RDBMS).Its name is a combination of "My", the name of co-founder Michael Widenius's daughter,[7] and "SQL", the abbreviation for Structured Query Language.(Offical document :The official way to pronounce “MySQL” is “My Ess Que Ell” (not “my sequel”), but we do not mind if you pronounce it as “my sequel” or in some other localized way)|
+| Apache / The Apache Software Foundation  | /əˈpætʃi/  |  |An American nonprofit corporation (classified as a 501(c)(3) organization in the United States) to support a number of open source software projects.|
+| 鸿蒙 / HarmonyOS  | pinyin: Hóngméng /ˈhɑːrməni OS/  |  |A distributed operating system developed by Huawei to run on multiple devices.|
+| Python  | /ˈpaɪθɑːn/ | |An interpreted high-level general-purpose programming language.|
+| Ubuntu  | /ʊ'bʊntʊ/ |念作 uu-BUUN-too |A Linux distribution based on Debian and composed mostly of free and open-source software.|
+| JavaScript  | /ˈdʒɑːvəˌskrɪpt/ | |A programming language that conforms to the ECMAScript specification.|
+| C#  | /si ʃɑːrp/ |念作 see sharp |A general-purpose, multi-paradigm programming language.|
+| C++  | /ˌsiːˌplʌsˈplʌs/ | |A general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".|
+| PyCharm  | /paɪtʃɑːrm/ (?not very sure) | 念作 pai chaarm |An integrated development environment (IDE) used in computer programming, specifically for the Python language.|
+| goroutine  | /ɡoʊ ruːˈtiːn/(?not very sure)| 念作go-routine |a type of light-weight process in Golang(A statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.)|
