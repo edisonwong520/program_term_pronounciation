@@ -23,6 +23,7 @@
 | Nginx | /ˈɛndʒɪnˈeks/ | 念作 Engine X| A web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.
 | GIF | /dʒɪf/ | | A bitmap image format.
 | Cache | /kæʃ/ | 类似 kash 发音|  A hardware or software component that stores data so that future requests for that data can be served faster.
+| Hash | /hæʃ/ | | 
 | Imgur | /ˈɪmədʒər/ | 类似 image-er 发音| An American online image sharing and image hosting service with a focus on social gossip.
 | Adobe | /əˈdoʊbiː/ | | Originally called Adobe Systems Incorporated.An American multinational computer software company.
 | GUI  | /ˈɡui/ | 念作 故意,G-U-I单独念也可| Short for "graphical user interface".
