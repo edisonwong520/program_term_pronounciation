@@ -39,6 +39,7 @@
 | LaTeX  | /ˈleɪtɛk/ or /ˈleɪtɛx/ or /ˈlɑːtɛx/ or /ˈlɑːtɛk/| |  
 | Linux | /ˈlɪnʌks/ | 念作 里那克斯，类似link+nux发音 |  A family of open-source Unix-like operating systems based on the Linux kernel.  
 | Lucene  | /ˈluːsin/ | 念作 鲁信|Apache Lucene is a free and open-source search engine software library, originally written completely in Java by Doug Cutting. |  
+| Maven  | /ˈmeɪvən/|   |A build automation tool used primarily for Java projects.|  
 | MySQL  | /ˌmaɪˌɛsˌkjuːˈɛl/ |  |An open-source relational database management system (RDBMS).Its name is a combination of "My", the name of co-founder Michael Widenius's daughter,[7] and "SQL", the abbreviation for Structured Query Language.(Offical document :The official way to pronounce “MySQL” is “My Ess Que Ell” (not “my sequel”), but we do not mind if you pronounce it as “my sequel” or in some other localized way)|  
 | Nginx | /ˈɛndʒɪnˈeks/ | 念作 Engine X| A web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.  
 | PNG  | /pi:n/ | |  
@@ -63,4 +64,3 @@
 | telnet  | /ˈtɛlˌnɛt/ |念作 tell net |  
 | thrift  | /θrɪft/ | |Thrift is an interface definition language and binary communication protocol used for defining and creating services for numerous languages.|  
 | 鸿蒙 / HarmonyOS  | pinyin: Hóngméng /ˈhɑːrməni OS/  |  |A distributed operating system developed by Huawei to run on multiple devices.|  
-| Maven  | /ˈmeɪvən/|   |A build automation tool used primarily for Java projects.|  
